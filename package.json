@@ -1,0 +1,15 @@
+{
+  "name": "languagetools",
+  "version": "0.0.1",
+  "description": "A natural language toolkit for JavaScript",
+  "type": "module",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NLP"
+  ],
+  "author": "Chris Udemans",
+  "license": "MIT"
+}
